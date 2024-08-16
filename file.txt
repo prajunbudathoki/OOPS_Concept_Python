@@ -3,3 +3,8 @@
     --> code walkthrough
     --> attributes get called itself where methods need to be called manually
 3. why python is called OOP? (everything in python is an object (data types,etc.))
+4. Advantages of OOP:
+    -> we can create our data types
+    -> Easy to debug
+    -> code reusability
+    -> easy to colab
