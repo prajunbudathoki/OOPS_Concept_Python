@@ -9,3 +9,6 @@
     -> code reusability
     -> easy to colab
 5. simple End to end oop project Done
+    -> encapsulation
+    -> getter and setter 
+    -> static method
